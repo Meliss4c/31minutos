@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>Personajes principales</title> 
+</head> 
+<body>
+ <h1>Personajes principales de 31 minutos </h1>
+  <p>Cada personaje posee una personalidad distinta que en cierta forma parodia a figuras    televisivas y sus personalidades.</p> 
+ <h2>Tulio Triviño Tufillo</h2>
+<p>
+<img src="https://i0.wp.com/31minutosoficial.cl/wp-content/uploads/2014/01/thumb-tulio2.png?w=640&ssl=1 aling="right">
+
+</p>
+</body> 
+ 
+
+</html> 
